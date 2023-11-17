@@ -1,5 +1,5 @@
 /venv/
-glassboilerplate-firebase-adminsdk-ayxb7-a5afc7301f.json
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
