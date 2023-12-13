@@ -7,3 +7,5 @@ cred = credentials.Certificate('glassboilerplate-firebase-adminsdk-ayxb7-905abea
 firebase_admin.initialize_app(cred)
 
 db = firestore.client()
+
+#Hola
