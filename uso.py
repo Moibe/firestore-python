@@ -14,8 +14,8 @@ quote = "Tan lejos del cielo y tan cerca de Estados Unidos."
 author = "Anónimo"
 
 doc_ref = db.collection('sampleData').document('inspiration')
-
 print(doc_ref)
+
 doc_ref.set({
     # 'quote': quote,
     'author': author,
